@@ -3,7 +3,7 @@ Hello, dear friends! My name is Inna and a I start to lern C#. These are my firs
      I have education in economics. I the first year of university I stadied Delphi. Worked in advertising. Now I work in company which provides a legal support marketer.
      My English is not good (you can see it)
 ### It's not me. But I want see a picture here
-![Image with a cat](https://github.com/innaartsemyeva/innaartsemyeva.github.io/blob/master/Image.jpg)
+![Image with a cat](https://github.com/innaartsemyeva/innaartsemyeva.github.io/blob/master/Image.png)
 
        
 ## Here will be  my works
