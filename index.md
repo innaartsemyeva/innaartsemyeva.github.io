@@ -7,4 +7,4 @@ Hello, dear friends! My name is Inna and a I start to lern C#. These are my firs
 
        
 ## Here will be  my works
-1.
+1. https://www.codewars.com/users/innaartsemyeva
